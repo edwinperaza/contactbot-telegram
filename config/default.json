@@ -1,0 +1,12 @@
+{
+  "token": "416528107:AAELtSIUSDmAkDwzAC0PknomdnMvxWIVVzc",
+	"token_MORIAH": "303194779:AAHwXh3F7dkzsSKo-PEDjf-AlRkC8MqW-eQ",
+	"token_BOTTONG": "228956394:AAEIlIxrKqRAAzcLc1N3pJAuKQl5sKBDI6Q",
+	"token_CHATIGO": "293523168:AAHlx2vBPLak3Cn3fdzQ26zXmxnB4AA4kBI",
+  "token_CHATTIGO_NUEVO": "416528107:AAELtSIUSDmAkDwzAC0PknomdnMvxWIVVzc",
+	"serverAPIGraphURL": "https://graph.facebook.com/v2.6/",
+	"backendURL": "http://bot.contactbot.org",
+  "backendURL_LOCAL": "http://127.0.0.1:8001",
+	"backendURL_PROD": "http://bot.contactbot.org",
+	"authenticationBackend" : "andre:Aa123456"
+}
